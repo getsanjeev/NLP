@@ -1,4 +1,4 @@
-#!/usr/bin/python -W ignore
+sdbshdgyhdgshdgwsh#!/usr/bin/python -W ignore
 #
 # This script reads a .seg file and parses each caption line for sentiment (polarity and subjectivity).
 #
